@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## I'm currently a Masters student in marine biology, focusing on fisheries and spatial analysis 🌍 🐟
+
 <!--
 **tom-lvn/tom-lvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
