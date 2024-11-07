@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Tom, currently a Masters student in marine biology.
+I'm Tom, currently a Masters student in marine biology 👨‍🎓
 
 My research focus is on fisheries and spatial analysis 🌍 🐟
 
