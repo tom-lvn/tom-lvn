@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Tom, currently a PhD student in fisheries science 👨‍🎓
+I'm Tom, currently a PhD student in fisheries science at Bangor University 👨‍🎓
 
 My research focus is on fisheries and spatial analysis 🌍 🐟
 
